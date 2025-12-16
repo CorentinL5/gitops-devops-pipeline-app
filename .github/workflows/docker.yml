@@ -21,4 +21,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: username/monimage:${{ github.sha }}
+          tags: corentinl5/flask-app:${{ github.sha }}
